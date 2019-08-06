@@ -1,0 +1,24 @@
+{
+    "name": "theme-github",
+    "displayName": "Dark Github Theme",
+    "description": "GitHub Theme for Visual Studio Code",
+    "icon": "icon.png",
+    "version": "1.0.1",
+    "publisher": "xmorse",
+    "repository": "https://github.com/thomaspink/vscode-github-theme",
+    "engines": {
+        "vscode": "*"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Github",
+                "uiTheme": "vs",
+                "path": "./themes/github.json"
+            }
+        ]
+    }
+}
