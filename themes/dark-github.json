@@ -168,41 +168,42 @@
             ],
             "settings": {
                 "fontStyle": "",
-                "foreground": "#795da3"
+                "foreground": "#bb97e7"
             }
         },
         { // function declaration
             "name": "Function name",
             "scope": [
                 "entity.name.function",
-                "variable.function.js",
+                // "variable.function.js",
             ],
             "settings": {
                 "fontStyle": "",
                 "foreground": "#bb97e7"
             }
         },
-        {   // bo
-            "name": "Library function",
-            "scope": [
-                "support.function",
-                "variable.language.this.js",
-                "variable.language.js",
-                "variable.language.python",
-                "support.variable.magic.python",
-                "variable.language.this.ts",
-            ],
-            "settings": {
-                "fontStyle": "",
-                "foreground": "#66B5F6"
-            }
-        },
+        // {   // bo
+        //     "name": "Library function",
+        //     "scope": [
+        //         "support.function",
+        //         "variable.language.this.js",
+        //         "variable.language.js",
+        //         "variable.language.python",
+        //         "support.variable.magic.python",
+        //         "variable.language.this.ts",
+        //     ],
+        //     "settings": {
+        //         "fontStyle": "",
+        //         "foreground": "#66B5F6"
+        //     }
+        // },
         {   // function call
             "name": "Library function",
             "scope": [
                 "meta.function-call.generic",
                 "meta.function-call.object",
                 "meta.function-call.static",
+                "meta.function-call.ts",
             ],
             "settings": {
                 "fontStyle": "",
@@ -264,7 +265,7 @@
             "name": "Invalid",
             "scope": "invalid",
             "settings": {
-                "background": "#b31d28",
+                "background": "#DC5148",
                 "fontStyle": "",
                 "foreground": "#fafbfc"
             }
@@ -330,12 +331,13 @@
                 "entity.name.type.exported.go",
                 "variable.parameter.go",
                 "variable.other.receiver.go",
-                "variable.parameter.function.keyword.python",
-                // "variable.parameter.ts",
-                "variable.parameter.python"
+                "variable.parameters.function.keyword",
+                "variable.parameters.ts",
+                // "variable.parameter",
+                "meta.definition.variable.name",
             ],
             "settings": {
-                "foreground": "#e36209"
+                "foreground": "#F39961"
             }
         },
         {
