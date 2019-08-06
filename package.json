@@ -15,9 +15,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Github",
-                "uiTheme": "vs",
-                "path": "./themes/github.json"
+                "label": "Dark Github",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark-github.json"
             }
         ]
     }
