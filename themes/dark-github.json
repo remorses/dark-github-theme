@@ -307,13 +307,13 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#D1C9BA"
+				"foreground": "#a19b8f"
 			}
 		},
 		{
 			"scope": "string",
 			"settings": {
-				"foreground": "#f0eade"
+				"foreground": "#f1eadc"
 			}
 		},
 		{
@@ -346,7 +346,7 @@
 				"variable.parameter"
 			],
 			"settings": {
-				"foreground": "#E47B7F"
+				"foreground": "#eb7e81"
 			}
 		},
 		{
@@ -362,7 +362,7 @@
 				"entity.name.function.shell"
 			],
 			"settings": {
-				"foreground": "#AA8BCF"
+				"foreground": "#bb97e7"
 			}
 		},
 		{
