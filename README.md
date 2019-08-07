@@ -1,7 +1,7 @@
 # GitHub Theme for Visual Studio Code
 The purpose is to provide a color theme for Visual Studio Code as close as it can get to the real GitHub code styling.
 
-<img src="theme.png" alt="Screenshot" width="980">
+<img src="https://raw.githubusercontent.com/remorses/dark-github-theme/master/theme.png" alt="Screenshot" width="980">
 
 ## Installation
 Launch VS Code Quick Open (⌘+P), paste the following command, and press enter.     
