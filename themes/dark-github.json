@@ -127,13 +127,7 @@
             }
         },
 
-        // {
-        //     "name": "Function argument",
-        //     "scope": "variable.parameter",
-        //     "settings": {
-        //         "foreground": "#ffffff"
-        //     }
-        // },
+
         // {
         //     "name": "Function argument (Python)",
         //     "scope": "meta.function-call.python variable.parameter.python",
@@ -331,13 +325,19 @@
                 "entity.name.type.exported.go",
                 "variable.parameter.go",
                 "variable.other.receiver.go",
-                "variable.parameters.function.keyword",
-                "variable.parameters.ts",
+                "variable.parameter",
                 // "variable.parameter",
-                "meta.definition.variable.name",
+                // "meta.definition.variable.name",
             ],
             "settings": {
                 "foreground": "#F39961"
+            }
+        },
+        {
+            "name": "Parameter ts",
+            "scope": "variable.parameter.ts",
+            "settings": {
+                "foreground": "#ffffff"
             }
         },
         {
