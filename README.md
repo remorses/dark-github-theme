@@ -3,4 +3,4 @@ Many years struggling for the perfect combinations of colors and the supreme syn
 
 <img src="https://raw.githubusercontent.com/remorses/dark-github-theme/master/theme.png" alt="Screenshot" width="980">
 
-Star the (project)[https://github.com/remorses/dark-github-theme] on github to fulfill my attention seeking disease
+Star the [project](https://github.com/remorses/dark-github-theme) on github to fulfill my attention seeking disease
